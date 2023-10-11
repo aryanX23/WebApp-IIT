@@ -1,0 +1,6 @@
+**/node_modules/
+/node_modules
+./EnergyTrading/MarketOperatorUI/node_modules
+./EnergyTrading/MarketOperatorUI/build
+./EnergyTrading/EEL/UserUI/web/build
+./EnergyTrading/EEL/UserUI/web/node_modules

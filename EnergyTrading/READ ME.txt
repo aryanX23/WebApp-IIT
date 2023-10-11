@@ -1,0 +1,18 @@
+if any error encountered (
+checkall the dependencies and dev dependencies 
+
+To check dependencies head over to package.json
+check dependencies and dev dependencies there.
+
+If some any package is shown as not found ,
+install them.)
+
+
+To start the app :-
+
+1st console :- npm run watch
+
+2nd console:- npm start
+
+Note:- Ignore the commented lines of code . Those were
+left for the later development purpose.
